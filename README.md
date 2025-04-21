@@ -40,6 +40,6 @@ Aşağıdaki Python kütüphanelerinin kurulu olması gereklidir:
 pip install torch torchvision numpy matplotlib pillow
 
 
-🚀 Kurulum ve Çalıştırma
+🚀 Çalıştırma
 
 >> python unet_segmentation.py
